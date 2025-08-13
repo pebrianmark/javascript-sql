@@ -1,0 +1,29 @@
+[
+  {
+    "nama": "Markus",
+    "kelas": "Full Stack Web Developer",
+    "nilai": [
+      78,
+      92,
+      87
+    ]
+  },
+  {
+    "nama": "Markus",
+    "kelas": "Back End Web Developer",
+    "nilai": [
+      93,
+      97,
+      83
+    ]
+  },
+  {
+    "nama": "Pebrian",
+    "kelas": "Front End Web Developer",
+    "nilai": [
+      98,
+      77,
+      68
+    ]
+  }
+]
